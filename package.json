@@ -1,0 +1,10 @@
+{
+  "name": "nioh",
+  "version": "1.0.0",
+  "author": "Giorgi Botsvadze",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
